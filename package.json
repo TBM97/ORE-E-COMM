@@ -1,0 +1,30 @@
+{
+  "name": "ORM_E_COMM",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TBM97/ORM_E-COMM.git"
+  },
+  "keywords": [
+    "MySQL",
+    "Node",
+    "Express",
+    "Handlebars"
+  ],
+  "author": "Mason Urrabas",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/TBM97/ORM_E-COMM/issues"
+  },
+  "homepage": "https://github.com/TBM97/ORM_E-COMM#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.6",
+    "mysql": "^2.18.1"
+  }
+}
